@@ -1,0 +1,21 @@
+#quote-box {
+  text-align: center;
+  text-justify: auto;
+  border: 3px solid green;
+  padding: 2%;
+  width: 600px;
+  /* height: 150px; */
+}
+
+* {
+  transition: all 0.8s ease-in-out;
+}
+
+.refer {
+  color: white;
+  margin-top: 5%;
+}
+
+
+
+
